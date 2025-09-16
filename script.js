@@ -153,12 +153,12 @@ function initTypingEffect() {
     if (!typingElement) return;
     
     const texts = [
-        '数字营销专家',
+        '数字营销',
         'Google Ads 投放师',
         'TikTok 广告优化师',
-        '千川投放专家',
+        '千川投放',
         'AIGC 内容创作者',
-        'Vibe AI 技术专家'
+        'Vibe Coding 技术探索者'
     ];
     
     let textIndex = 0;
